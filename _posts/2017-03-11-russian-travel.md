@@ -4,7 +4,7 @@ title:  "乌拉尔之旅"
 date:   2017-03-11 14:49:24 +0900
 categories: travel
 ---
-##乌拉尔(Urals)地区的工业文明 
+# 乌拉尔(Urals)地区的工业文明 
 
 讲座的演讲者是：Maria O. Guzikova 乌拉尔联邦大学孔子学院的院长。
 
@@ -18,5 +18,7 @@ categories: travel
 许多的价值观能够从当地的民俗神话中反映出来：手艺人Danila到了Malachite女士去学艺，牺牲了自己的自由并使用Malachite的石头制造了最美的工艺。她的未婚妻也一直等待他的归来，并自己成为了一个工匠。Malachite威胁Danila他回去就会忘记这些手艺，但最后Danila还是回去了自己的家乡并且没有忘记任何的精湛技艺。
 
 
-##食物
+# 食物
 ![](/Images/pic5.jpeg)
+
+# Test for English
