@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is HanYi's personal blog site.
+This is HanZengyi's personal blog site.
 
 You can find my CV here:
 
